@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 public class Lab1 {
 
 	public static void main(String[] args) {
-		int a[][] = new int[10][10],i = 0,j = 0,k = 0;
+		int a[][] = new int[10][10],i = 0,j = 0,k = 0;//×¢ÊÍ
 		int varn[] = new int[10];
 		int varn1[] = new int[10];
 		boolean jus = true;//×¢ÊÍ
